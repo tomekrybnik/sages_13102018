@@ -321,3 +321,357 @@
   321  history > home/tomeker/Bootcamp Data Science/history2.txt
   322  history > ~/Bootcamp Data Science/history2.txt
   323  history > history2.txt
+    1  cd \home
+    2  cd/home
+    3  cd /home
+    4  cd..
+    5  cd /
+    6  anaconda-navigator
+    7  sudo apt update
+    8  sudo apt install okular
+    9  sudo add-apt-repository ppa:webupd8team/java
+   10  sudo apt install openjdk-8-jdk
+   11  sudo add-apt-repository ppa:webupd8team/java
+   12  sudo apt update
+   13  sudo apt install oracle-java8-set-default
+   14  conda install -c conda-forge pyspark
+   15  anaconda-navigator
+   16  man sudo_root
+   17  cd /tmp
+   18  md5sum /path/filename
+   19  md5sum home/tomeker/Downloads/Anaconda3-5.3.0-Linux-x86_64.sh
+   20  bash ~/Downloads/Anaconda3-5.3.0-Linux-x86_64.sh
+   21  anaconda-navigator
+   22  jupyter
+   23  sudo apt install jupyter-core
+   24  cd
+   25  cd/
+   26  cd /
+   27  anaconda
+   28  jupyter
+   29  cd ~
+   30  anaconda
+   31  python3 -V
+   32  anaconda -V
+   33  sudo apt -y install r-base
+   34  conda
+   35  bash Anaconda3-5.2.0-Linux-x86_64.sh
+   36  cd /tmp
+   37  bash Anaconda3-5.2.0-Linux-x86_64.sh
+   38  cd /download
+   39  cd /downloads
+   40  bash Anaconda3-5.3.0-Linux-x86_64.sh
+   41  cd ..
+   42  bash Anaconda3-5.3.0-Linux-x86_64.sh
+   43  bash ~/Downloads/Anaconda3-5.3.0-Linux-x86_64.sh
+   44  sudo apt install gdebi-core
+   45  sudo gdebi google-chrome-stable_current_amd64.deb
+   46  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   47  jupyter
+   48  python
+   49  spark
+   50  conda install -c conda-forge pyspark
+   51  sudo apt install spark
+   52  anaconda-navigator
+   53  sudo gdebi google-chrome-stable_current_amd64.deb
+   54  anaconda-navigator
+   55  pwd
+   56  ls
+   57  cd Desktop/
+   58  cd..
+   59  cd pwd
+   60  cd ..
+   61  ls -al
+   62  cd /home/tomeker/
+   63  cd /
+   64  ls
+   65  cd /bin
+   66  ls
+   67  cd ..
+   68  cd /sbin
+   69  ls
+   70  cd ..
+   71  cd /opt
+   72  ls
+   73  cd ..
+   74  cd /
+   75  cd bin/
+   76  ls
+   77  cd ..
+   78  ls
+   79  cd sbin
+   80  cd ..
+   81  cd /tmp
+   82  cd ..
+   83  cd tmp
+   84  pwd
+   85  mkdir katalog1
+   86  pwd
+   87  ls
+   88  cd katalog1
+   89  pwd
+   90  mkdir katalog2/
+   91  cd katalog2/
+   92  ld -a
+   93  ls -a
+   94  ls -al
+   95  man l
+   96  man ls
+   97  cd /tmp
+   98  ls
+   99  cd katalog/katalog1
+  100  cd katalog1/katalog2
+  101  touch .ukryty
+  102  ls -a
+  103  rm .ukryty
+  104  ls -a
+  105  mkdir katalog3
+  106  ls
+  107  rm katalog3/
+  108  man rm
+  109  rm -d katalog3/
+  110  ls
+  111  mkdir katalog3
+  112  rmdir katalog3
+  113  mkdir .ukryty_fol
+  114  ls
+  115  ls -a
+  116  rmdir .ukryty_fol
+  117  touch plik_testowy.txt
+  118  ls
+  119  man echo
+  120  echo "ing datascience"
+  121  echo "ing datascience" > plik_testowy.txt
+  122  man cat
+  123  cat plik_testowy.txt
+  124  echo "ing datascience 222" > plik_testowy.txt
+  125  cat plik_testowy.txt
+  126  echo "ing datascience 222333" >> plik_testowy.txt
+  127  cat plik_testowy.txt
+  128  echo "ing datascience 222333" >> plik_testowy.txt
+  129  echo "ing datascience aaa 222333" >> plik_testowy.txt
+  130  echo "ing datascience bbb 222333" >> plik_testowy.txt
+  131  cat plik_testowy.txt
+  132  echo "ing datascience bbb 222333" >> plik_testowy.txt
+  133  head plik_testowy.txt
+  134  tail plik_testowy.txt
+  135  head -5  plik_testowy.txt
+  136  tail -3 plik_testowy.txt
+  137  cat plik_testowy.txt | head
+  138  cat plik_testowy.txt | head -5
+  139  cat plik_testowy.txt | head -5 tail -2
+  140  cat plik_testowy.txt | head -5 | tail -2
+  141  cat plik_testowy.txt | wc
+  142  cat plik_testowy.txt | wc -l
+  143  history
+  144  man cat
+  145  echo "ing datascience ccc 222333" >> plik_testowy.txt
+  146  echo "ing datascience ccc" >> plik_testowy.txt
+  147  e
+  148  ls --help
+  149  man --help
+  150  cat plik_testowy.txt | grep ing
+  151  cat plik_testowy.txt | grep --color ing
+  152  man grep
+  153  cat plik_testowy.txt | grep --color Ing -i
+  154  cat plik_testowy.txt | grep --color bbb 222333 -i
+  155  cat plik_testowy.txt | grep --color "bbb 222333" -i
+  156  who
+  157  whoami
+  158  who
+  159  apt-get installpostgres
+  160  apt-get install postgres
+  161  sudo apt-get install postgres
+  162  sudo apt-cache search postgres
+  163  sudo apt-get install postgressql
+  164  sudo apt-get install postgresql
+  165  env
+  166  env | grep -i user
+  167  echo $PATH
+  168  echo $PWD
+  169  echo $GPG_AGENT_INFO
+  170  ps
+  171  ps -a
+  172  ps aux -a
+  173  ps aux
+  174  ps aux | grep -i chro
+  175  ps aux | grep -i libre
+  176  ps -au
+  177  ps aux | grep -i libre
+  178  ps aux | grep -i writ
+  179  ps aux | grep -i chro
+  180  ps aux | grep -i fire
+  181  kill 9999
+  182  vim
+  183  sudo apt install vim 
+  184  vim
+  185  pico
+  186  mkdir nasze_dane
+  187  cd nasze_dane
+  188  echo "Adrian" > imiona
+  189  cat imiona
+  190  echo "Tomek" >> imiona
+  191  echo "Ewelina" >> imiona
+  192  cat imiona
+  193  man sort
+  194  cat imiona | sort 
+  195  echo "Adam" >> imiona
+  196  cat imiona
+  197  cat imiona | uniq
+  198  cat imiona | uniq | wc -l
+  199  cat imiona | wc -l
+  200  cat imiona | wc 
+  201  man uniq
+  202  cat imiona | uniq -c
+  203  python --version
+  204  python 
+  205  cat /var/log/syslog
+  206  echo /var/log/syslog > plik
+  207  cat plik
+  208  cat /var/log/syslog
+  209  cat /var/log/syslog > plik
+  210  cat plik
+  211  history
+  212  cat plik | grep error -i
+  213  cat plik.txt | grep error -i
+  214  cat plik.txt | grep -i error 
+  215  cat plik.txt
+  216  cat plik
+  217  cat plik.txt
+  218  cat plik | grep -i TeeR
+  219  cat plik | grep started -i | wc -l
+  220  cat plik | grep cron -i | wc -l
+  221  cat plik | grep cron -i | wc 
+  222  cat plik | grep cron - | wc 
+  223  cat plik | grep cron  | wc 
+  224  cat /var/log/syslog
+  225  cat plik
+  226  cat plik.txt | grep -i error 
+  227  cat plik | grep started -i | wc -l
+  228  cat plik | grep cron -i | wc -l
+  229  cat plik | grep cron -i | wc -
+  230  cat plik | grep cron -i | wc
+  231  cat plik | grep cron. -i | wc
+  232  cat plik | grep /cron -i | wc
+  233  history > history.txt
+  234  cd /
+  235  python
+  236  cd ~/
+  237  mkdir code
+  238  cd code
+  239  mkdir sages_13102018
+  240  cd sages_13102018
+  241  cho "# sages_13102018" >> README.md
+  242  echo "# sages_13102018" >> README.md
+  243  ls -al
+  244  git init
+  245  sudo apt install git
+  246  git init
+  247  sudo apt install git
+  248  apt-get update
+  249  sudo apt install git
+  250  sudo add-apt-repository ppa:git-core/ppa
+  251  sudo apt-get update
+  252  sudo apt-get install git
+  253  git init
+  254  ls -al
+  255  git status
+  256  git add README.md
+  257  git status
+  258  touch plikk
+  259  git status
+  260  git add plikk
+  261  git status
+  262  git rm --cached plikk
+  263  git status
+  264  rm plikk
+  265  git status
+  266  git commit -m "first commit dodałem coś"
+  267  git config --global user.email "tomek.rybnik@gmail.com"
+  268  git config --global user.name "TeeR"
+  269  git config --global user.name "tomekrybnik"
+  270  git commit -m "first commit dodałem coś"
+  271  git config --list
+  272  cat README.md
+  273  git log
+  274  git remote add origin https://github.com/tomekrybnik/sages_13102018.git
+  275  git remotr -v
+  276  git remote -v
+  277  git push -u origin master
+  278  history
+  279  ls -al
+  280  ls
+  281  git status
+  282  git diff
+  283  pwd
+  284  git status
+  285  touch .gitignore
+  286  nano .gitignore
+  287  cat .gitignore
+  288  git status
+  289  git add .
+  290  git status
+  291  git commit -m "dodałem pierwszy jupyter"
+  292  git push -u origin master
+  293  git status
+  294  top
+  295  git status
+  296  git diff
+  297  git commit -m "zmieniłem jupyter"
+  298  git add.
+  299  git add .
+  300  git commit -m "zmieniłem jupyter"
+  301  git push  origin master
+  302  git status
+  303  git add .
+  304  git commit -m "zmieniłem jupyter znowu - zmienne znakowe"
+  305  git push  origin master
+  306  cd /tmp
+  307  git clone https://github.com/pazikkamil/sages_kurs_13102018
+  308  ls
+  309  cd /
+  310  mkdir trash
+  311  cd ~/
+  312  mkdir trash
+  313  cd trash
+  314  git clone https://github.com/pazikkamil/sages_kurs_13102018
+  315  history > cd /code
+  316  cd ..
+  317  cd code
+  318  ld
+  319  ls
+  320  cd sages_13102018
+  321  history > home/tomeker/Bootcamp Data Science/history2.txt
+  322  history > ~/Bootcamp Data Science/history2.txt
+  323  history > history2.txt
+  324  memtest
+  325  cd /
+  326  ls | grep .txt
+  327  ls -a
+  328  cd code
+  329  cd ~/
+  330  cd code
+  331  cd sages_13102018/
+  332  cd ~/
+  333  nano .bashrc
+  334  cd ~/
+  335  cd code
+  336  cd sages_13102018/
+  337  python
+  338  ps aux | grep -i python
+  339  ps aux | wc -l
+  340  ls -al
+  341  git status
+  342  git add .
+  343  git status
+  344  git add .
+  345  git status
+  346  whoami
+  347  git status
+  348  git add .
+  349  git commit -m "omg! zmieniłem jupyter - 14.10.2018"
+  350  git push  origin master
+  351  git add .
+  352  git commit -m "omg! zmieniłem jupyter znowu - 14.10.2018 - part 2"
+  353  git push  origin master
+  354  history >> history2.txt
